@@ -1,4 +1,4 @@
-<h2>Hi, I'm Yuchen <img src="https://media.giphy.com/media/kdneDgu9N322A/giphy.gif" width="120"></h2>
+<h2>Hi, I'm Yuchen <img src="https://media.giphy.com/media/LhZJZ06bWvSqk/giphy.gif" height="80"></h2>
 
 - Proficient
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
