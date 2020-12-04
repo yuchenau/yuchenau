@@ -1,5 +1,7 @@
 <h2>Hi, I'm Yuchen <img src="https://media.giphy.com/media/LhZJZ06bWvSqk/giphy.gif" height="80"></h2>
 
+🦀 Bio: Information Technology student studying in Australia, love frontend developing and creative designing. Love new technologies, card games enthusiasts <br/>
+
 - Proficient
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -33,7 +35,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-- Creative prototyping tools
+- Creative prototyping
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat-square&logo=Adobe-XD&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-EE3D8F?style=flat-square&logo=Adobe-InDesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
