@@ -1,6 +1,12 @@
-<h2>Hi, I'm Yuchen <img src="https://media.giphy.com/media/LhZJZ06bWvSqk/giphy.gif" height="80"></h2>
+<h2>Hi, I'm Yuchen. <img src="https://media.giphy.com/media/LhZJZ06bWvSqk/giphy.gif" height="80"></h2>
 
-🦀 Bio: Information Technology student studying in Australia, love frontend developing and creative designing. Love new technologies, card games enthusiasts <br/>
+🦀 Bio: Information Technology student studying in Australia, love frontend developing and creative designing. Love new technologies, card games enthusiasts. <br/>
+
+You can contact with me here:
+[![Facebook](https://img.shields.io/badge/-Yuchen%20Ye-1877F2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009571823981)](https://www.facebook.com/profile.php?id=100009571823981)
+![Gmail](https://img.shields.io/badge/-yuchenau0321@gmail.com-D14836?style=plastic&logo=Gmail&logoColor=white&)
+[![Instagram](https://img.shields.io/badge/-Yuchenau-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/yuchen_0321/)](https://www.instagram.com/yuchen_0321/)
+[![Twitter](https://img.shields.io/badge/-Yuchenau-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/yuchenau)](https://twitter.com/yuchenau)
 
 - Proficient
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
