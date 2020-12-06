@@ -1,6 +1,9 @@
 <h2>Hi, I'm Yuchen. <img src="https://media.giphy.com/media/LhZJZ06bWvSqk/giphy.gif" height="80"></h2>
 
-🐼 Bio: Information Technology student studying in Australia, love frontend developing and creative designing. Love new technologies, card games enthusiasts. <br/>
+🐼  Bio: Information Technology student studying in Australia, love frontend developing and creative designing. Love new technologies, card games enthusiasts. <br/>
+🦁️  I'm currently learning and working on a keystoneJS CMS system. </br>
+🐘  I'm currently learning SEO and analytic tools such as Google Analytics. 
+
 
 You can contact with me here:
 [![Facebook](https://img.shields.io/badge/-Yuchen%20Ye-1877F2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009571823981)](https://www.facebook.com/profile.php?id=100009571823981)
