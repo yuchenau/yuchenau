@@ -1,13 +1,14 @@
 <h2>Hi, I'm Yuchen. <img src="https://media.giphy.com/media/LhZJZ06bWvSqk/giphy.gif" height="80"></h2>
 
 🐼  Bio: Information Technology student studying in Australia, love frontend developing and creative designing. Love new technologies, card games enthusiasts. <br/>
-🦁️  I'm currently learning and working on a keystoneJS CMS system and dashboard developing based on umiJS. </br>
+🦁️  I'm currently learning the frontend solution based on Antd, UmiJs and dvajs</br>
 
 
 You can contact with me here:
 [![Facebook](https://img.shields.io/badge/-Yuchen%20Ye-1877F2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009571823981)](https://www.facebook.com/profile.php?id=100009571823981)
 ![Gmail](https://img.shields.io/badge/-yuchenau0321@gmail.com-D14836?style=plastic&logo=Gmail&logoColor=white&)
 [![LinkedIn](https://img.shields.io/badge/-Yuchen%20Ye-0077B5?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yuchen-ye/)](https://www.linkedin.com/in/yuchen-ye/)
+![Zhihu](https://img.shields.io/badge/-完蛋啦迟到啦-0084FF?style=plastic&logo=Zhihu&logoColor=white&)
 [![Instagram](https://img.shields.io/badge/-Yuchenau-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/yuchen_0321/)](https://www.instagram.com/yuchen_0321/)
 [![Twitter](https://img.shields.io/badge/-Yuchenau-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/yuchenau)](https://twitter.com/yuchenau)
 
@@ -39,6 +40,7 @@ You can contact with me here:
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=Material-UI)
 
 - Novice
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
