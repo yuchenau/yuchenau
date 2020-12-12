@@ -1,7 +1,7 @@
 <h2>Hi, I'm Yuchen. <img src="https://media.giphy.com/media/LhZJZ06bWvSqk/giphy.gif" height="80"></h2>
 
 🐼  Bio: Information Technology student and web frontend developer based on Brisbane, Australia. Love frontend developing and creative designing. Love new technologies, card games enthusiasts. <br/>
-🦁️  I'm currently learning the frontend solution based on Antd, UmiJs and dvajs</br>
+🦁️  I'm currently learning the frontend solution based on Antd, UmiJs and dvajs. </br>
 
 
 You can contact with me here:
@@ -33,6 +33,7 @@ You can contact with me here:
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 - Competent
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
