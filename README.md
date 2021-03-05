@@ -3,7 +3,6 @@
 ‣ About Me: Information Technology student and web frontend developer based on Brisbane, Australia. Love frontend developing and creative designing. Love new technologies, card games enthusiasts. <br/>
 ‣ I'm currently learning the frontend solution based on Antd, UmiJs and dvajs. </br>
 
-
 You can contact with me here:
 [![Facebook](https://img.shields.io/badge/-Yuchen%20Ye-1877F2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009571823981)](https://www.facebook.com/profile.php?id=100009571823981)
 ![Gmail](https://img.shields.io/badge/-yuchenau0321@gmail.com-D14836?style=plastic&logo=Gmail&logoColor=white&)
@@ -12,7 +11,7 @@ You can contact with me here:
 [![Instagram](https://img.shields.io/badge/-Yuchenau-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/yuchen_0321/)](https://www.instagram.com/yuchen_0321/)
 [![Twitter](https://img.shields.io/badge/-Yuchenau-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/yuchenau)](https://twitter.com/yuchenau)
 
-- Proficient
+‣ Proficient
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -32,7 +31,7 @@ You can contact with me here:
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-- Competent
+‣ Competent
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -40,14 +39,14 @@ You can contact with me here:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=Material-UI)
 
-- Novice
+‣ Novice
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-- Creative prototyping
+‣ Creative prototyping
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat-square&logo=Adobe-XD&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-EE3D8F?style=flat-square&logo=Adobe-InDesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
