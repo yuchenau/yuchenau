@@ -1,7 +1,7 @@
 <h2>Hi, I'm Yuchen. <img src="https://media.giphy.com/media/LhZJZ06bWvSqk/giphy.gif" height="80"></h2>
 
-🐼  About Me: Information Technology student and web frontend developer based on Brisbane, Australia. Love frontend developing and creative designing. Love new technologies, card games enthusiasts. <br/>
-🐼  I'm currently learning the frontend solution based on Antd, UmiJs and dvajs. </br>
+‣ About Me: Information Technology student and web frontend developer based on Brisbane, Australia. Love frontend developing and creative designing. Love new technologies, card games enthusiasts. <br/>
+‣ I'm currently learning the frontend solution based on Antd, UmiJs and dvajs. </br>
 
 
 You can contact with me here:
