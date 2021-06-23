@@ -1,4 +1,12 @@
-<h2>Hi, I'm Yuchen. <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="50"></h2>
+<div display="flex">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="50">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="50">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="50">
+</div>
+
+<h2>
+  Hi, I'm Yuchen.
+</h2>
 
 About Me: Web frontend developer based on Beijing, China. Love new technologies, card games enthusiasts. <br/> You can contact with me here:
 [![LinkedIn](https://img.shields.io/badge/-Yuchen%20Ye-0077B5?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yuchen-ye/)](https://www.linkedin.com/in/yuchen-ye/)
