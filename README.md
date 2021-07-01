@@ -3,7 +3,7 @@
 <!--   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="40"> -->
 </h1>
 
-About Me: Web frontend developer based on Beijing, China. Love new technologies, card games enthusiasts. <br/> You can contact with me here:
+Web frontend developer based on Beijing, China. Love new technologies, card games enthusiasts. <br/> You can contact with me here:
 [![LinkedIn](https://img.shields.io/badge/-Yuchen%20Ye-0077B5?style=plastic&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yuchen-ye/)](https://www.linkedin.com/in/yuchen-ye/)
 [![Facebook](https://img.shields.io/badge/-Yuchen%20Ye-1877F2?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009571823981)](https://www.facebook.com/profile.php?id=100009571823981)
 [![Instagram](https://img.shields.io/badge/-Yuchenau-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/yuchen_0321/)](https://www.instagram.com/yuchen_0321/)
