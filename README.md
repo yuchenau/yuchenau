@@ -19,9 +19,6 @@ Programming Languages
 Client
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Styled-Component](https://img.shields.io/badge/-Styled%20Component-DB7093?style=flat-square&logo=Styled-Components&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
-![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
@@ -29,11 +26,14 @@ Client
 ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest)
+![JSON Web Tokens](https://img.shields.io/badge/-JSON%20web%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=Ant-Design)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=Material-UI)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest)
-![JSON Web Tokens](https://img.shields.io/badge/-JSON%20web%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![Styled-Component](https://img.shields.io/badge/-Styled%20Component-DB7093?style=flat-square&logo=Styled-Components&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white)
 
 Server
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -64,7 +64,7 @@ IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 
-<!-- ‣ Creative prototyping
+<!-- Creative prototyping
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF26BE?style=flat-square&logo=Adobe-XD&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-EE3D8F?style=flat-square&logo=Adobe-InDesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
