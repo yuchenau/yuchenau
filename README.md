@@ -19,6 +19,7 @@ Programming Languages
 Client
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Styled-Component](https://img.shields.io/badge/-Styled%20Component-DB7093?style=flat-square&logo=Styled-Components&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
@@ -27,6 +28,7 @@ Client
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white)
 ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=Ant-Design)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=Material-UI)
@@ -36,8 +38,8 @@ Client
 Server
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
-<!-- 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white) -->
+![Swagger](https://img.shields.io/badge/-Socket.io-85EA2D?style=flat-square&logo=Swagger&logoColor=black)
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white) -->
 
 Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
