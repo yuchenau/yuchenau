@@ -23,7 +23,7 @@ Client
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white)
-![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white)
+<!-- ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white) -->
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest)
@@ -38,7 +38,7 @@ Client
 Server
 ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Socket.io-85EA2D?style=flat-square&logo=Swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black)
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white) -->
 
 Database
