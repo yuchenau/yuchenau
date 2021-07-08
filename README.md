@@ -23,7 +23,6 @@ Client
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=React-Router&logoColor=white)
-<!-- ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white) -->
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest)
